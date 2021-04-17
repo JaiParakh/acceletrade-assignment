@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# Acceletrade Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live Url: https://powerful-beyond-05419.herokuapp.com/
+
+
+## Technologies Used
+
+- React (Create React App)
+- Material UI
+- Heroku
+
+
+## Screenshots
+
+<img src="./images/img1.png">
+Two Tables if the screen is greater than 1280px
+<hr>
+<img src="./images/img2.png">
+A single table if the screen is smaller than 1280px
+<hr>
+
+## Features
+
+- If the screen is larger than 1280px two tables are displayed.
+- A single table is shown on smaller screens.
+- The breakpoint is the mid point of the array and is computed dynamically.
+
 
 ## Available Scripts
 
