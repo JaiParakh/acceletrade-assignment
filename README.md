@@ -13,11 +13,11 @@ Live Url: https://powerful-beyond-05419.herokuapp.com/
 ## Screenshots
 
 <img src="./images/img1.png">
-Two Tables if the screen is greater than 1280px
+Two Tables, if the screen is greater than 1280px
 <hr>
 <img src="./images/img2.png">
-A single table if the screen is smaller than 1280px
-<hr>
+A single table, if the screen is smaller than 1280px
+
 
 ## Features
 
